@@ -43,3 +43,4 @@ std_temp = df['Temperature'].std()
 print(f"\nMean Temperature: {mean_temp:.2f} °C")
 print(f"Median Temperature: {median_temp:.2f} °C")
 print(f"Standard Deviation of Temperature: {std_temp:.2f} °C")
+
